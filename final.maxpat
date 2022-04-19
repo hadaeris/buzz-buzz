@@ -1927,7 +1927,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 995.0, 143.0, 87.0, 22.0 ],
-									"text" : "beeTexture.jpg"
+									"text" : "textures/beeTexture.jpg"
 								}
 
 							}
@@ -1975,7 +1975,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 828.6432945728302, 135.999984741210938, 88.0, 22.0 ],
-									"text" : "windowsXP.jpg"
+									"text" : "textures/windowsXP.jpg"
 								}
 
 							}
